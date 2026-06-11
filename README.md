@@ -15,7 +15,6 @@
   <img alt="Python 3.12+" src="https://img.shields.io/badge/Python-3.12%2B-blue?logo=python">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-ready-blue?logo=postgresql">
   <img alt="dbt" src="https://img.shields.io/badge/dbt--postgres-ready-orange?logo=dbt">
-  <img alt="Status" src="https://img.shields.io/badge/status-in%20development-yellow">
 </p>
 
 ---
