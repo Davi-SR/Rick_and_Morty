@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: api_rick_morty
+    schema: public 
+    tables:
+      - name: characters 
+      - name: locations
+      - name: episodes
